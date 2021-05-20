@@ -21,9 +21,10 @@ git clone https://github.com/anthonysecurity/redteam_toolkit.git
 git clone https://github.com/kgretzky/evilginx2.git
 git clone https://github.com/gophish/gophish.git
 git clone https://github.com/gentilkiwi/mimikatz.git
+git clone https://github.com/Ne0nd0g/merlin.git
 
 # msfinstall
 git clone https://github.com/Pernat1y/msfinstall-arch-arm.git
 cd msfinstall-arch-arm
-chmod +x msfinstall-arch-arm
+chmod +x msfinstall-arch-arm.sh
 ./msfinstall-arch-arm
